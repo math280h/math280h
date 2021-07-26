@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">A nerd from Denmark</h3>
 
-- 🔭 I’m currently working on [DEVPOD.](https://devpod.dk)
-
-- 💬 Ask me about **PHP, Laravel, Vue, and NuxtJS**
+- 🔭 I’m currently working on [Hushbot](https://github.com/math280h/hushbot)
 
 - 📫 How to reach me **mvn@devpod.dk**
 
