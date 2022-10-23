@@ -3,7 +3,7 @@
 
 - 👨‍💻 My website [https://thias.dev](https://thias.dev)
 
-- 📫 How to reach me **mvn@devpod.dk**
+- 📫 How to reach me **mathias@thias.dev**
 
 <h3 align="left">Connect with me and other DevOps/SRE/Infra people:</h3>
 <p align="left">
