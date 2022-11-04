@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
-<h3 align="center">A Sr. DevOps Engineer from Denmark</h3>
 
 - 👨‍💻 My website [https://thias.dev](https://thias.dev)
 
