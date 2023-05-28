@@ -3,7 +3,7 @@
 <h3 align="left">Communities</h3>
 <p align="left">
 The Programmers Hangout
-<a href="https://discord.gg/VEEnHkPzY6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VEEnHkPzY6" height="30" width="40" /></a>
+<a href="https://xxxmasterpogrammer.guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VEEnHkPzY6" height="30" width="40" /></a>
 </p>
 <p align="left">
 DevOps, SRE & Infrastructure
